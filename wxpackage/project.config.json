@@ -1,0 +1,42 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "game",
+	"libVersion": "2.1.0",
+	"appid": "wx606a0d53c1cbe9c2",
+	"projectname": "%E6%B2%99%E6%BB%A9%E8%B5%9B%E8%BD%A6%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E7%82%B9%E5%87%BB",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "test",
+					"query": "roomId=12344"
+				}
+			]
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
