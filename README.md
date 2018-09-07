@@ -1,0 +1,2 @@
+# laya-minigame-seed
+test
